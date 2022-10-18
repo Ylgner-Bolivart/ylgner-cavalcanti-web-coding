@@ -1,0 +1,28 @@
+h1{
+    color: black;
+    background-color: greenyellow;
+}
+div {
+    color: black;
+}
+p{
+    color: whitesmoke;
+}
+div {
+    margin: 10px;
+    color: black;
+}
+h2 {
+    color: goldenrod;
+}
+ul {
+    color: white;
+    margin: 10px;
+}
+img {
+    margin: 10px;
+    
+}
+table{
+    text-align: left;
+}
